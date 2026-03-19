@@ -6,7 +6,7 @@ function Hero() {
   return (
     <header className="hero">
       <div className="hero__inner">
-        <div className="hero__sigil">&#9788;</div>
+        <div className="hero__sigil">☿</div>
         <h1 className="hero__title">Зеркало Света</h1>
         <StreamingLinks
           appleMusicUrl={ARTIST_LINKS.appleMusic}
