@@ -50,6 +50,12 @@
   gap: 1.5rem;
 }
 
+.discography__grid-mobile {
+  display: none;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
 .discography__column {
   flex: 1;
   display: flex;
@@ -70,6 +76,10 @@
   }
 
   .discography__grid {
-    flex-direction: column;
+    display: none;
+  }
+
+  .discography__grid-mobile {
+    display: flex;
   }
 }

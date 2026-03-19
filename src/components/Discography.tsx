@@ -46,6 +46,12 @@ function Discography() {
           </div>
         </div>
 
+        <div className="discography__grid-mobile">
+          {filtered.map((release, i) => (
+            <ReleaseCard key={release.id} release={release} index={i} />
+          ))}
+        </div>
+
         {filtered.length === 0 && (
           <p className="discography__empty">Нет релизов в этой категории</p>
         )}
