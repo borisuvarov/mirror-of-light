@@ -1,0 +1,17 @@
+.footer {
+  padding: 2rem 0 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__tg {
+  color: var(--color-text-dim);
+  opacity: 0.3;
+  transition: opacity 0.3s var(--ease-in-out), color 0.3s var(--ease-in-out);
+  display: flex;
+}
+
+.footer__tg:hover {
+  opacity: 0.7;
+  color: var(--color-mercury);
+}
