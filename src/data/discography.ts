@@ -23,7 +23,7 @@ export const discography: Release[] = [
     releaseDate: '2025-11-26',
     year: 2025,
     type: 'ep',
-    trackCount: 5,
+
     coverImage: coverSintveyv,
     spotifyUrl: 'https://open.spotify.com/album/7qnpU1tOwXGsiMpwKA9YPI',
     youtubeMusicUrl: 'https://music.youtube.com/browse/MPREb_q2l9oWnycz1',
@@ -105,7 +105,7 @@ export const discography: Release[] = [
     releaseDate: '2025-05-05',
     year: 2025,
     type: 'album',
-    trackCount: 11,
+
     coverImage: coverDiscoAdskogo,
     appleMusicUrl: 'https://music.apple.com/us/album/диско-адского-огня/1812511491',
     spotifyUrl: 'https://open.spotify.com/album/4b3ycQkhxia6wAH6Pli8uT',
@@ -284,7 +284,7 @@ export const discography: Release[] = [
     releaseDate: '2025-02-03',
     year: 2025,
     type: 'live',
-    trackCount: 16,
+
     coverImage: coverLiveSofia,
     appleMusicUrl: 'https://music.apple.com/us/album/live-in-sofia-live/1794163229',
     spotifyUrl: 'https://open.spotify.com/album/0OS1KjwgQfHqLsfEGAZqOm',
@@ -557,7 +557,7 @@ export const discography: Release[] = [
     releaseDate: '2024-12-22',
     year: 2024,
     type: 'album',
-    trackCount: 9,
+
     coverImage: coverImperatorSnov,
     appleMusicUrl: 'https://music.apple.com/us/album/император-снов/1786881143',
     spotifyUrl: 'https://open.spotify.com/album/4yAgyJnAeJ67mgGdNCXhwv',
@@ -727,7 +727,7 @@ export const discography: Release[] = [
     releaseDate: '2024-09-28',
     year: 2024,
     type: 'album',
-    trackCount: 6,
+
     coverImage: coverZhizn,
     appleMusicUrl: 'https://music.apple.com/us/album/жизнь/1771200244',
     spotifyUrl: 'https://open.spotify.com/album/6nkJDD0HKgkKAhgbxhKCd6',
@@ -834,7 +834,7 @@ export const discography: Release[] = [
     releaseDate: '2024-07-02',
     year: 2024,
     type: 'album',
-    trackCount: 7,
+
     coverImage: coverMillionAlyh,
     appleMusicUrl: 'https://music.apple.com/us/album/миллион-алых-слёз/1755261315',
     spotifyUrl: 'https://open.spotify.com/album/1F8ayYeXgHUrcuITZaB3sE',
@@ -975,7 +975,7 @@ export const discography: Release[] = [
     releaseDate: '2024-05-15',
     year: 2024,
     type: 'ep',
-    trackCount: 6,
+
     coverImage: coverIllirion,
     appleMusicUrl: 'https://music.apple.com/us/album/иллирион-ep/1750607102',
     spotifyUrl: 'https://open.spotify.com/album/4zHnbu2goQMmhI182PwKJl',
@@ -1090,7 +1090,7 @@ export const discography: Release[] = [
     releaseDate: '2024-05-13',
     year: 2024,
     type: 'ep',
-    trackCount: 5,
+
     coverImage: coverRaconte,
     appleMusicUrl: 'https://music.apple.com/us/album/raconte-la-monotonie-ep/1746102125',
     spotifyUrl: 'https://open.spotify.com/album/3OW3ndF8zB1mP8PRsAiN2y',
@@ -1199,7 +1199,7 @@ export const discography: Release[] = [
     releaseDate: '2024-05-07',
     year: 2024,
     type: 'album',
-    trackCount: 34,
+
     coverImage: coverRozaBezKozhi,
     appleMusicUrl: 'https://music.apple.com/us/album/роза-без-кожи/1745116728',
     spotifyUrl: 'https://open.spotify.com/album/7cF6qDMZv2ON3FSbWVarZf',

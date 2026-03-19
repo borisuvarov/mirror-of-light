@@ -11,10 +11,8 @@ export interface Release {
   releaseDate: string;
   year: number;
   type: 'album' | 'ep' | 'live';
-  trackCount: number;
   tracks: Track[];
   coverImage?: string;
-  coverGradient?: string;
   appleMusicUrl?: string;
   spotifyUrl?: string;
   youtubeMusicUrl?: string;

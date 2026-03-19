@@ -21,10 +21,7 @@ function ReleaseCard({ release, index }: ReleaseCardProps) {
       style={{ animationDelay: `${0.05 * index}s` }}
     >
       <div className="release-card__header">
-        <div
-          className="release-card__cover"
-          style={release.coverImage ? undefined : { background: release.coverGradient }}
-        >
+        <div className="release-card__cover">
           {release.coverImage ? (
             <img
               className="release-card__cover-img"
@@ -63,6 +60,5 @@ function ReleaseCard({ release, index }: ReleaseCardProps) {
     </article>
   );
 }
-
 
 export default ReleaseCard
